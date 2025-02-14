@@ -1,7 +1,7 @@
 # FILE: weatherpredict.py
 # AUTHOR: Ritik Pratap Singh Patel
 # COMPLETION DATE: 07 May 2024
-# DESCRIPTION: A weather prediction, analyzing and visualization implementation using dataset i.e. weather.csv
+# DESCRIPTION: A weather prediction, analyzing various aspects and giving max temperature and visualization implementation using dataset i.e. weather.csv
 # GUIDANCE: Zidio Development
 import pandas as pd
 import numpy as np
